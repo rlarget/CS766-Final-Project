@@ -13,7 +13,7 @@ object tracking more generally. There is significant amounts of labeled video fo
 case.
 
 The course looks like this:
-![Course Map](Resources/frames/i-Hv7VPf8.png)
+![Course Map](Resources/i-Hv7VPf8.png)
 
 Details in the [project proposal](Resources/Project_Proposal.pdf)
 
