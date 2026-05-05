@@ -13,7 +13,7 @@ object tracking more generally. There is significant amounts of labeled video fo
 case.
 
 The course looks like this:
-![Course Map](Resource/frames/i-Hv7VPf8.png)
+![Course Map](Resources/frames/i-Hv7VPf8.png)
 
 Details in the [project proposal](Resources/Project_Proposal.pdf)
 
@@ -44,6 +44,8 @@ Frame level functions extract the timer and digits (to make sure timer is runnin
 
 ![Digit detector 1300](Resources/frames/timer_mask_frame1300.png)
 
+Once implemented, this was effective at identifying the main race parts of the video (timer exists and is running).
+
 ## Overlay elements dominate feature detection
 
 Without masking the overlay: ![Timer filter 1300](Resources/frames/Orb_frames.png)
@@ -54,6 +56,4 @@ Masking the overlay: ![Timer filter 1300](Resources/frames/Orb_masked_frames.png
 
 Please see [Final Presentation](Resources/CS_766_Final_Presentation_Slides.pdf)
 
-Code is available [here](Code/).
-
-The code is present [here](Code/).
+The code is available [here](Code/).
