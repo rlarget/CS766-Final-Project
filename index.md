@@ -12,8 +12,8 @@ The same techniques that will work on this example are broadly applicable to geo
 object tracking more generally. There is significant amounts of labeled video footage available in this
 case.
 
-Details in the [project proposal](Resources/Project_Proposal.pdf)
+Details in the [project proposal](Resources/Project Proposal.pdf)
 
 # Results
 
-Please see [Final Presentation]{Resources/CS_766_Final_Presentation_Slides.pdf}
+Please see [Final Presentation](Resources/CS 766 Final Presentation Slides.pdf)
