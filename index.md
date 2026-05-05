@@ -5,7 +5,7 @@ author: "Riley Larget"
 
 # Motivation
 
-There is race footage (https://www.youtube.com/@CMUbuggy) that we would like to analyze.
+There is [race footage](https://www.youtube.com/@CMUbuggy) that we would like to analyze.
 It has pans and zooms within shots and cuts between different camera angles. We intend to extract both
 3-D (course environment) and 4-D (racer progress) data.
 The same techniques that will work on this example are broadly applicable to geolocation and
@@ -54,6 +54,6 @@ Masking the overlay: ![Timer filter 1300](Resources/frames/Orb_masked_frames.png
 
 # Results
 
-Please see [Final Presentation](Resources/CS_766_Final_Presentation_Slides.pdf)
+Please see the [Final Presentation](Resources/CS_766_Final_Presentation_Slides.pdf).
 
 The code is available [here](Code/).
